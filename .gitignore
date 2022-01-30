@@ -1,0 +1,6 @@
+# Project exclude paths
+/cart/node_modules/
+/container/node_modules/
+/products/dist/
+/products/node_modules/
+.idea
